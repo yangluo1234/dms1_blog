@@ -1,12 +1,14 @@
 ---
 title: Welcome! Welcome! 
-published_at: 2022-11-04
-snippet: An example of a blog post.
+published_at: 2024-07-22
+snippet: Example of scavenger hunt blog post
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# Welcome to 2024 Sem2
+# Welcome to 2024 Sem2 DMS1: 13:30 - 16:30 class
+
+![Today's pics](Blackbox.jpg)
 
 ![a drippy lemon](logo.svg)
 
