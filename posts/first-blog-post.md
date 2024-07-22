@@ -1,12 +1,12 @@
 ---
-title: This is a blog post!
+title: Welcome! Welcome! 
 published_at: 2022-11-04
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# This is h1
+# Welcome to 2024 Sem2
 
 ![a drippy lemon](logo.svg)
 
