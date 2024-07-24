@@ -1,16 +1,20 @@
 ---
 title: Welcome! Welcome! 
 published_at: 2024-07-22
-snippet: Example of scavenger hunt blog post
+snippet: Scavenger hunt blog post
 disable_html_sanitization: true
 allow_math: true
 ---
 
 # Welcome to 2024 Sem2 DMS1: 13:30 - 16:30 class
 
-![Today's pics](Blackbox.jpg)
 ![Today's pic1](1.jpg)
-[Today's pic1](2.jpg)
+![Today's pic2](2.jpg)
+![Today's pic3](3.jpg)
+![Today's pic4](4.jpg)
+![Today's pic5](5.jpg)
+![Today's pic6](6.jpg)
+![Today's pic7](7.jpg)
 
 
 ^ images are written like this: `![description](file_path/file_name.png)`
