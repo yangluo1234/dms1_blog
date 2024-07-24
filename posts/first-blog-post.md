@@ -9,7 +9,9 @@ allow_math: true
 # Welcome to 2024 Sem2 DMS1: 13:30 - 16:30 class
 
 ![Today's pics](Blackbox.jpg)
-![Today's pics](1.jepg)
+![Today's pic1](1.jpg)
+[Today's pic1](2.jpg)
+
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
