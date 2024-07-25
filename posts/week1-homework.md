@@ -1,6 +1,6 @@
 ---
 title: Homework Task_Week1
-published_at: 2024-07-22
+published_at: 2024-07-25
 snippet: Homework Task_Week1
 disable_html_sanitization: true
 allow_math: true
@@ -10,7 +10,7 @@ allow_math: true
 
 ## 30s Video for Week1:
 
-<iframe id="week1_video" src="https://www.youtube.com/embed/7XBDrD5xwpg" title="30s Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="week1_video" src="https://www.youtube.com/embed/7XBDrD5xwpg" title="30s of footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="module">
 
