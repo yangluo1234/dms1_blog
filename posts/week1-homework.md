@@ -10,13 +10,13 @@ allow_math: true
 
 ## 30s Video for Week1:
 
-<iframe id="coding_train_video" src="https://www.youtube.com/watch?v=7XBDrD5xwpg" title="30s Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="week1_video" src="https://www.youtube.com/embed/7XBDrD5xwpg" title="30s Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="module">
 
     console.log (`hello world! 🚀`)
 
-    const iframe  = document.getElementById (`coding_train_video`)
+    const iframe  = document.getElementById (`week1_video`)
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16
 
