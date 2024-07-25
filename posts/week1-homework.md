@@ -8,9 +8,9 @@ allow_math: true
 
 #  2024 Sem2 DMS1: 13:30 - 16:30 class
 
-## Embedding video:
+## 30s Video for Week1:
 
-<iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="coding_train_video" src="https://www.youtube.com/watch?v=7XBDrD5xwpg" title="30s Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="module">
 
