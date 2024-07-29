@@ -12,7 +12,7 @@ allow_math: true
 
 Basic Editing using Premiere Pro. 
 
-<iframe id="week1_footage" src="https://www.youtube.com/embed/i7FwS9yP50" title="Basic Editing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="week1_footage" src="https://www.youtube.com/embed/_i7FwS9yP50" title="Basic Editing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="module">
 
