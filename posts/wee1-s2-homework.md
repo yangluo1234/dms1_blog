@@ -7,8 +7,6 @@ allow_math: true
 ---
 #  2024 Sem2 DMS1: 13:30 - 16:30 class
 
-## Footages editing for Week1:
-
 **Basic Editing using Premiere Pro.** 
 
 This week, I've just crated a Youtube account and uploaded my latest experiment video.
