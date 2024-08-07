@@ -13,6 +13,10 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
   return (
     <main class="max-w-screen-md px-4 pt-16 mx-auto">
       <h1 class="text-5xl font-bold">Blog</h1>
+
+      <h2 class="mt-6 text-2xl text-gray-500">By Yang Luo (Iris)</h2>
+      
+      
       <div class="mt-8">
         {posts.map((post) => <PostCard post={post} />)}
       </div>
