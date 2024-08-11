@@ -29,3 +29,16 @@ allow_math: true
 ![A1-Storyboard1](A1-Storyboard1.jpg)
 ![A1-Storyboard2](A1-Storyboard2.jpg)
 ![A1-Storyboard3](A1-Storyboard3.jpg)
+
+## Editing Process ##
+From my editing process, I mainly use Adobe Premiere Pro. First, I trim my footage into the needed segments using the Mark In and Mark Out technique and then rename the segments and save them as sub-clips for later use. 
+
+![A1-Editing](renameSub-clips.jpg) 
+
+Second, I arrage the sub-clips accroding to the storyboard sequence and then add some crossfades between clips.
+
+![A1-Editing](editingScreenshot.jpg)
+
+Third, I add background music and sound effects to the video, using L-cuts and J-cuts to create atmosphere and the tone of the scene. 
+
+![A1-Editing](bgm.jpg)
