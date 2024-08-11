@@ -6,3 +6,27 @@ disable_html_sanitization: true
 allow_math: true
 ---
 #  2024 Sem2 DMS1: 13:30 - 16:30 class
+
+## Key Moment in my work ##
+The key moment in my viedo is when the red light flashes intensely, showing close-ups of objects like fluttering strap, swaying treetops, and stationary toy cars. This scene is important because it visually represents my anxiety and the feeling of being trapped. 
+
+## Justification for Sound Design and Soundtrack ##
+At the beginning of the viedo, I am going to use strong, repetitive music to get the viewers' attention. When the red light starts flashing, I plan to make the sound of the red light louder, with each repetition symbolising my inner anxiety and confusion. At the end, I will use the sound of a pedestrian signal to represent a new beginning, which means I decide to move forward. 
+
+## Emotional Tone and Editing Choices ##
+The emotional tone of the video is about confused and anxiety. My editing of audio will use J-cuts and L-cuts at the beginning and end of video. For the scenes, I will use quick cuts to create a sense of unease. And cross dissolves will be used from shot to shot.
+
+## Audience Understanding and Shot Relationship ##
+The audience needs to see how the flashing red lights and stationary objects are connected. The goal is to show how I feel trapped and unable to move forward. By syncing the audio wit the visual elements, viewers will better understand what I am struggling with and my anxiety. 
+
+## Rhythem, Tempo, and Pace ##
+I am going to create a fast-paced rhythm using quick cuts and intense music to reflect the sense of anxiety. The tempo will rise with the red light's intensity and I may use crossfades between each scene to make a smooth transition.
+
+
+## Updated Storyboard (Description/Sound details added) ##
+
+![A1-Storyboard1](Page1(updated).jpg)
+![A1-Storyboard1](Page2(updated).jpg)
+![A1-Storyboard1](Page3(updated).jpg)
+
+
