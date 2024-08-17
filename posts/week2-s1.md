@@ -45,7 +45,7 @@ Third, I add background music and sound effects to the video, using L-cuts and J
 
 ![A1-Editing](bgm_edit.jpg)
 
-Since I use both sound effects and background music, and I need to hightlight the sound of the traffic light, I adjusted the audio levels and volume accordingly
+Since I use both sound effects and background music, and I need to hightlight the sound of the traffic light, I adjusted the audio volume level from 0 dB to 8dB.
 
 ![A1-Editing](soundEffect_edit.jpg)
 
