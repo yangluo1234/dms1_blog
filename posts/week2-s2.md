@@ -14,7 +14,7 @@ The key moment in my viedo is when the red light flashes intensely, showing clos
 At the beginning of the viedo, I am going to use strong, repetitive music to get the viewers' attention. When the red light starts flashing, I plan to make the sound of the red light louder, with each repetition symbolising my inner anxiety and confusion. Futheremore, the background music is full of At the end, I will use the sound of a pedestrian signal to represent a new beginning, which means I decide to move forward. In addition, I plan to use three distinct backgound music tracks to enhance different scenes. The first track will serve as an attention-grabbing opening, setting the stage for the audience. The second one will create a sense of anxiety, heightening the emotional atmosphere. Finally, the third track will be bright and relaxing , representing moving forward.  
 ## Audio Reference ## 
    
-**Backgound Musi Tracks**
+**Backgound Music Tracks**
 
    Name: military background-rhythm 0H_wl2k <br>
    Author: Setuniman <br>
