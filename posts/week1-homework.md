@@ -25,3 +25,5 @@ This is my daily route from home to RMIT. When I got home, I thought it looked r
 
 I have just set up everyhing for my upcoming assignments. I downloaded Premiere Pro 2024, Adobe Illustrator 2024, VsCode, and the latest Unity version. I also created accounts for Unity and Figma. All the software is up and running, so I'm all set to dive into my projects.
 
+![APP](App.jpg)
+
