@@ -24,7 +24,7 @@ At the beginning of the viedo, I am going to use strong, repetitive music to get
 
 
    Name: Cinematic Motivational <br>
-   Source:  CC library from Adobe Premiere Pro
+   Source: CC library from Adobe Premiere Pro
 
    Name: HAPPY POSITIVE EMOTIONS <br>
    Source: CC library from Adobe Premiere Pro
