@@ -17,24 +17,23 @@ At the beginning of the viedo, I am going to use strong, repetitive music to get
    
 **Backgound Music**
 
-   Name: military background-rhythm 0H_wl2k
-   Author: Setuniman
-   License: military background-rhythm 0H_wl2k by Setuniman -- https://freesound.org/s/147938/ -- License: Attribution NonCommercial 4.0
-   Link: https://freesound.org/people/Setuniman/sounds/147938/?attribution=1
+   Name: military background-rhythm 0H_wl2k <br>
+   Author: Setuniman <br>
+   License: military background-rhythm 0H_wl2k by Setuniman -- https://freesound.org/s/147938/ -- License: Attribution NonCommercial 4.0 <br>
+   Link: https://freesound.org/people/Setuniman/sounds/147938/?attribution=1 <br>
 
 
-   Name: Cinematic Motivational
+   Name: Cinematic Motivational <br>
    Source:  CC library from Adobe Premiere Pro
 
-   Name: HAPPY POSITIVE EMOTIONS
+   Name: HAPPY POSITIVE EMOTIONS <br>
    Source: CC library from Adobe Premiere Pro
 
 **Sound Effect**
 
-Sound of Pedestrian Traffic Light
-   Name: Pedestrian Traffic Light - La Serena (Chile)
-   Author: felix.blume
-   License: Pedestrian Traffic Light - La Serena (Chile) by felix.blume -- https://freesound.org/s/396411/ -- License: Creative Commons 0
+   Name: Pedestrian Traffic Light - La Serena (Chile) <br>
+   Author: felix.blume <br>
+   License: Pedestrian Traffic Light - La Serena (Chile) by felix.blume -- https://freesound.org/s/396411/ -- License: Creative Commons 0 <br>
    Link: https://freesound.org/people/felix.blume/sounds/396411/?
 
 ## Emotional Tone and Editing Choices ##
