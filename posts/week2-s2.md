@@ -14,7 +14,7 @@ The key moment in my viedo is when the red light flashes intensely, showing clos
 At the beginning of the viedo, I am going to use strong, repetitive music to get the viewers' attention. When the red light starts flashing, I plan to make the sound of the red light louder, with each repetition symbolising my inner anxiety and confusion. At the end, I will use the sound of a pedestrian signal to represent a new beginning, which means I decide to move forward. 
 
 ## Emotional Tone and Editing Choices ##
-The emotional tone of the video is about confused and anxiety. My editing of audio will use J-cuts and L-cuts at the beginning and end of video. For the scenes, I will use quick cuts to create a sense of unease. And cross dissolves will be used from shot to shot.
+The emotional tone of the video is about confused and anxiety. My editing of audio will use J-cuts and L-cuts at the beginning and end of video. For the scenes, I will use quick cuts to create a sense of unease. And cross dissolves will be used from shot to shot. In addition, I am going to use a fade from black to color for the last scene, to represent my decision to move forward and overcome my anxiety. 
 
 ## Audience Understanding and Shot Relationship ##
 The audience needs to see how the flashing red lights and stationary objects are connected. The goal is to show how I feel trapped and unable to move forward. By syncing the audio wit the visual elements, viewers will better understand what I am struggling with and my anxiety. 
