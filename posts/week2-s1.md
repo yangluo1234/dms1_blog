@@ -42,3 +42,11 @@ Second, I arrage the sub-clips accroding to the storyboard sequence and then add
 Third, I add background music and sound effects to the video, using L-cuts and J-cuts to create atmosphere and the tone of the scene. 
 
 ![A1-Editing](bgm.jpg)
+
+![A1-Editing](bgm_edit.jpg)
+
+Since I use both sound effects and background music, and I need to hightlight the sound of the traffic light, I adjusted the audio levels and volume accordingly
+
+![A1-Editing](soundEffect_edit.jpg)
+
+
