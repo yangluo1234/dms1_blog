@@ -8,7 +8,7 @@ allow_math: true
 #  2024 Sem2 DMS1: 13:30 - 16:30 class
 
 ## About ##
-This video explores my feeling of anxiety. A flashing red light shows the author's inner struggle, while objects like fluttering fabric and still toy car symbolise being stuck. The sound design includes a low and repetitive noise to enhance the feeling of stress and indecision, making the experience of anxiety more vivid for viewers.
+This video explores my emotional jjourney from anxiety to resolve through the use of rhythmic and visual elements. The central concept revolves around the idea of being trapped and the subsequent decision to move forward. My intention is to guide the audience through this journey, using the interaction of rhythm, tempo and pace to evoke a powerful emotional response.
 
 ## Draft ##
 
