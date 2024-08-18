@@ -42,8 +42,7 @@ The emotional tone of the video is about confused and anxiety. My editing of aud
 The audience needs to see how the flashing red lights and stationary objects are connected. The goal is to show how I feel trapped and unable to move forward. By syncing the audio wit the visual elements, viewers will better understand what I am struggling with and my anxiety.
 
 ## Rhythm, Tempo, and Pace ##
-I am going to create a fast-paced rhythm using quick cuts and intense music to reflect the sense of anxiety. The tempo will rise with the red light's intensity and I may use crossfades between each scene to make a smooth transition.
-
+In my vedio, I will use strong music at the beginning to establish a rhythmic tempo to catch the viewers' attention. As the red light starts flashing, the sound will grow louder with background music. And I use quick cuts synchronised with the peak of the background music to bring all the trapped objects together, creating a tense and nervous atmosphere. The rhythm and tempo change significantly in the final part of my vedio, where the background music transitions to a bright and brisk tone. This change in pace symbolises my move forward and the release of anxiety. The more uplifting rhythm at the end contrasts with the earlier intensity, highlighting the emotional journey from anxiety to resolve.
 
 ## Updated Storyboard (Description/Sound details added) ##
 
