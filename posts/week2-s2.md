@@ -41,7 +41,7 @@ The emotional tone of the video is about confused and anxiety. My editing of aud
 ## Audience Understanding and Shot Relationship ##
 The audience needs to see how the flashing red lights and stationary objects are connected. The goal is to show how I feel trapped and unable to move forward. By syncing the audio wit the visual elements, viewers will better understand what I am struggling with and my anxiety.
 
-## Rhythem, Tempo, and Pace ##
+## Rhythm, Tempo, and Pace ##
 I am going to create a fast-paced rhythm using quick cuts and intense music to reflect the sense of anxiety. The tempo will rise with the red light's intensity and I may use crossfades between each scene to make a smooth transition.
 
 
