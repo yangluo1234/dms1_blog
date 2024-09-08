@@ -34,4 +34,4 @@ allow_math: true
 ![Colour](sushi_colour.jpg)
 ![Colour](tea_colour.jpg)
 
-<p>I have created four food icons with different color schemes: analogous, monochromatic, triad, and complementary. From reviewing all these icons, I think the triad and complementary colour schemes work best for my concept. They are bright and playful, which is perfect for a family-friendly, fun food court. However, the analogous colour scheme is good for items that need a softer and calmer look. </p>
+<p>I have created four food icons with different colour schemes: analogous, monochromatic, triad, and complementary. From reviewing all these icons, I think the triad and complimentary colour schemes work best for my concept. They are bright and playful, which is perfect for a family-friendly, fun food court. However, the analogous colour scheme is good for items that need a softer and calmer look. </p>
