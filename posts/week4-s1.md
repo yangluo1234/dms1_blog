@@ -10,13 +10,13 @@ allow_math: true
 ## Black Square Activity ##
 ![Activity](BA.jpg)
 
-Today, I completed the Black Square Activity in the class. This activity allows us to use only black squares to represent several concepts like order, increase, bold, congested, tension and playful. The rule and the purpose of this activity look simple, but as I sson discovered, the simplicity of the task was what made it so challenging.
+Today, I completed the Black Square Activity in class. This activity allows us to use only black squares to represent several concepts like order, increase, bold, congested, tension and playful. The rule and the purpose of this activity look simply, but as I soon discovered, the simplicity of the task was what made it so challenging.
 
-I began by sketching several ideas on the artboard , focusing on how to arrange these squares to communicate meaning. For example, I used symmetry to symmetry to convey order, placing squares equally in both sides. Conversely, I deliberately placed squares out of whiteframe to create a sense of congestion. Throught out the process, I also adjusted stroke and fill to emphasise different aspects of the squares which I learned from Linkedln. 
+I began by sketching several ideas on the artboard, focusing on how to arrange these squares to communicate meaning. For example, I used symmetry to symmetry to convey order, placing squares equally in both sides. Conversely, I deliberately placed squares out of white frame to create a sense of congestion. Throughtout the process, I also adjusted stroke and fill to emphasise different aspects of the squares which I learned from Linkedln. 
 
-Additionally, the design thinking process is applied in this exercise. At the beginning, I defined each concept and then ideated different ways to represent them focusing on space, size and balance. Prototyping was an important part in the process and I tried to produce a range of rough, possible solutions to refine the final design. 
+Additionally, the design thinking process is applied in this exercise. At the beginning, I defined each concept and then ideated different ways to represent them focusing on space, size and balance. Prototyping was an important part of the process and I tried to produce a range of rough, possible solutions to refine the final design. 
 
-During this process, I learned how to set up my workspace in Illustrator and navigate the different the different tools and panels. The Shape Tool helped me to create squares in different sizes. Furthermore, I experimented with rotating and scaling the squares, which I learned from video. The layers panel helped me keep track of each square's postion and make quick adjustments. However, as a first-time Illustrator user, the biggest challenges I faced was remembering the shortcuts for different tools. I found myself frequently needing to loook them up online as I coundn't recall them all. I get more familiar with the shortcuts after completing this task, as repeated use helped me gradually remember some of them.   
+During this process, I learned how to set up my workspace in Illustrator and navigate the different tools and panels. The Shape Tool helped me to create squares in different sizes. Furthermore, I experimented with rotating and scaling the squares, which I learned from video. The layers panel helped me keep track of each square's position and make quick adjustments. However, as a first-time Illustrator user, the biggest challenges I faced was remembering the shortcuts for different tools. I found myself frequently needing to look them up online as I coudn't recall them all. I get more familiar with the shortcuts after completing this task, as repeated use helped me gradually remember some of them.   
 
 After finishing the activity, I understood better how to communicate complex ideas clearly. It was also a good way to practice design thinking and use the skills I learned from Linkedln Learning. 
 
@@ -41,9 +41,9 @@ From my mindmap, I can see what I want to do is about food related but I am not 
 
 ## My Icon Design Project - Icons for Friendly Food Court ##
 
-<p>When designing icons for a food court that targets younger generations and families, it is important to make visuals that feel friendly, fun and playful. The food court is a part of community and is not just a place to eat, it's a space where families or friends gather to share things, socialise and hang-out. Therefore, I want to design a set of icons about food that reflect fun and joful moments. 
+<p>When designing icons for a food court that targets younger generations and families, it is important to make visuals that feel friendly, fun and playful. The food court is a part of the community and is not just a place to eat, it's a space where families or friends gather to share things, socialise and hang-out. Therefore, I want to design a set of icons about food that reflect fun and joyful moments. 
 
-This set of icons will be used in food court kiosks and a webapp for ordering food. The kiosks and app need to be simple engough for younger users while also providing a fun and playful way for families with children. </p>
+This set of icons will be used in food court kiosks and a webApp for ordering food. The kiosks and app need to be simple enough for younger users while also providing a fun and playful way for families with children. </p>
 
 ## Platform & Context ##
 
