@@ -68,5 +68,10 @@ Author: watsnick  <br>
 License: comical bite and chew by watsnick -- https://freesound.org/s/423479/ -- License: Attribution 4.0  <br>
 Link: https://freesound.org/people/watsnick/sounds/423479/?attribution=1  <br>
 
+Name: munchin  <br>
+Author: micahlg  <br>
+License: munchin.wav by micahlg -- https://freesound.org/s/546322/ -- License: Creative Commons 0  <br>
+Link: https://freesound.org/people/micahlg/sounds/546322/?attribution=1  <br>
+
 
 
