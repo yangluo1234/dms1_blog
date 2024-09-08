@@ -15,7 +15,7 @@ allow_math: true
 
 <p>Using the Pen Tool in Illustrator has been one of my biggest design challenges. What seemed like a simple tool turned out to be incredibly frustrating, especially when it came to control curves and anchor points. I found myself creating too many points or mismanaging Bezier curves, leading to chaotic, jagged lines.</P>
 
-<p>However, the more I practiced, the more I realised that planning advanced is the key. By placing fewer, more intentional anchor points, I got better control over the tool. Repetition is important, I grew more confident with every use. </p>
+<p>However, the more I practised, the more I realised that planning advanced is the key. By placing fewer, more intentional anchor points, I got better control over the tool. Repetition is important, I grew more confident with every use. </p>
 
 
 ## Tracing Activity ##
@@ -25,7 +25,7 @@ allow_math: true
 
 <p>For the geometric approach, both paintings have strong architectural elements that are easy to simplify into basic shapes. I turned the buildings and landscape into rectangles, triangles and lines. I decided to focus on the hard, structured shapes, leaving out most details in the landscape.</p>
 
-<p>For the organic method, I pick Automat. I traced the curved shapes of the woman, the table, and the hanging lights. The focus on the soft, flowing lines that reflect the calm mood of the scene. The organic forms enhance the emotional of t he scene. </p>
+<p>For the organic method, I pick Automat. I traced the curved shapes of the woman, the table, and the hanging lights. The focus is on the soft, flowing lines that reflect the calm mood of the scene. The organic forms enhance the emontions of the scene. </p>
 
 ## Icon Design - Colour ##
 
