@@ -18,17 +18,17 @@ allow_math: true
 ![design](design.jpg)
 
 
-In my HTML webpage, I integrated a Pac-Man element into the design. When users hover the icons, the cursor changes into a Pac-Man icon, making it feel like Pac-Man is "Eating the icons. This small detail ties in with the playful theme and adds an element of surprise, making the interaction more engaging and enjoyable for users. In addition, the icons will change on hover from a complete food item to a version that looks like it has been partially eaten. This reinforces the theme of enjoying food in a fun, interactive way. 
+In my HTML webpage, I integrated a Pac-Man element into the design. When users hover over the icons, the cursor changes into a Pac-Man icon, making it feel like Pac-Man is "Eating the icons. This small detail ties in with the playful theme and adds an element of surprise, making the interaction more engaging and enjoyable for users. In addition, the icons will change on hover from a complete food item to a version that looks like it has been partially eaten. This reinforces the theme of enjoying food in a fun, interactive way. 
 
-To create this fun and playful foodcourt environment for younger generations and parents with children, I choose a bright and colourful palette. Each icon is designed to be visually engaging, using vibrant colours that not only attract children but also keep the experience light-hearted and fun for all ages. 
+To create this fun and playful food court environment for younger generations and parents with children, I choose a bright and colourful palette. Each icon is designed to be visually engaging, using vibrant colours that not only attract children but also keep the experience light-hearted and fun for all ages. 
 
-Since the icons will be used in both food court kiosks and a web app for ordering, they need to be simple enough for younger users to understand easily. I kept the shapes bold and friendly, ensuring the icons are recognisable at a glance, even for kids. The overall style is playful but functional. 
+Since the icons will be used in food court kiosks and a web app for ordering, they need to be simple enough for younger users to understand easily. I kept the shapes bold and friendly, ensuring the icons were recognisable at a glance, even for kids. The overall style is playful but functional. 
 
 ## Sound Design ##
 
 ![Code](soundDesign.jpg)
 
-The sound effect I've chosen for each icon is the sound of eating food. When users click each icon, there is the sound of eating,drinking, chewing or swallowing. In addition, I used Adobe Audition to edit the sound clips from open-source sound effects. However, as a first-time Audition user, my skills with the software are still limited. While the techniques I learned in class were helpful, I found myself needing to Google additional tutorials to figure out how to properly edit the sound clips. I spent much more time on sound editing that I expected. Although it was a learning curve, it was a valuable experience that improved the quality of my project. 
+The sound effect I've chosen for each icon is the sound of eating food. When users click each icon, there is the sound of eating, drinking, chewing or swallowing. In addition, I used Adobe Audition to edit the sound clips from open-source sound effects. However, as a first-time Audition user, my skills with the software are still limited. While the techniques I learned in class were helpful, I needed to Google additional tutorials to figure out how to properly edit the sound clips. I spent much more time on sound editing than I expected. Although it was a learning curve, it was a valuable experience that improved the quality of my project. 
 
 ## Audio Reference ## 
 

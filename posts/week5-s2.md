@@ -15,4 +15,4 @@ allow_math: true
 
 ![Code](code_4.jpg)
 
-<p>Additionally, I took this project with icon prototypes and pushed it to a Github repo. From there, I used Deno Deploy to easily host and share my work. Deploying with Deno was a smooth process, and I was also able to preview my work locally. The tutorial was clear, and by following it step by step, I successfully built the project on my Mackbook like my blog!!</p>
+<p>Additionally, I took this project with icon prototypes and pushed it to a Github repo. From there, I used Deno Deploy to easily host and share my work. Deploying with Deno was a smooth process, and I was also able to preview my work locally. The tutorial was clear, and by following it step by step, I successfully built the project on my MackBook like my blog!! </p>
