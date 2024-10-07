@@ -27,7 +27,7 @@ allow_math: true
 
 
 
-## Audito Reference ##
+## Audito Assets Reference ##
 
  Name: Keyboards and Typewriters  <br>
  Author: Mark H Audio Publisher  <br>
@@ -44,7 +44,7 @@ allow_math: true
  License: Extension Asset <br>
  Link: https://assetstore.unity.com/packages/audio/sound-fx/nature-sound-fx-180413 <br>
 
-  Name: Medieval Music Pack Vol. 2  <br>
+ Name: Medieval Music Pack Vol. 2  <br>
  Author: alkakrab  <br>
  License: Extension Asset <br>
  Link: https://assetstore.unity.com/packages/audio/music/medieval-music-pack-vol-2-233785  <br>
