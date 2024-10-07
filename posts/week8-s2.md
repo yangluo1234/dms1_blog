@@ -25,7 +25,7 @@ allow_math: true
 <p>This solution worked well and allowed me to achieve the smooth transition I wanted between the indoor and outdoor space. I am so excited to keey learning how to solve similar challenges in Unity</p>
 
 
-
+**All assets used in this project are from the Unity Asset Store and are free.**
 
 ## Audito Assets Reference ##
 
