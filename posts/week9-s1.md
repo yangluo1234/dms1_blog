@@ -27,3 +27,8 @@ allow_math: true
 <p>Lastly, the position of the water plane is not correct. It needs to be adjusted, as the current placement is off and looks unrealistic.</p>
 
 <p>Moving forward, I will extend the time spent in the indoor space and add more sounds to emphasize the contrast. I will also add some barriers or invisible walls to keep the player within the environment and fix the water plane position to make the outdoor area look more realistic.</p>
+
+
+
+
+<p>Plus: There is secret path for an easter egg in my 3D environment. (just want to make it fun and for player to discover!)  :))</p>
