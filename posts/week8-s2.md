@@ -11,7 +11,7 @@ allow_math: true
 
 ![sound](sound_setting.jpg)
 
-<p>To show the different between the indoor and outdoor spaces in my environment, I used two very different sound designs. Inside the house, I created a sound environment that is full of technology. You can hear the sounds of notifications, keyboard or mouse typing, showing a life focused on tech. This reflects how I felt during the pandemic when I was mostly indoors and surrounded by technology. </p>
+<p>To show the different between the indoor and outdoor spaces in my environment, I used two very different sound designs. Inside the house, I created a sound environment that is full of technology. You can hear the sounds of notifications, keyboard or mouse typing, showing a life focused on tech. This reflects how I felt during the pandemic when I was mostly indoors and surrounded by technology. In addition, the indoor audio features looping news reports, represeenting daily life during COVID-19. This highlights the sense of isolation, contrasting with the natural sounds to show the shift to reconnecting with nature. </p>
 
 <p>When the player moves outside, the sound change completely. The outdoor space is fulled with nature sounds, like bird chirping, giving a feeling of peace and freedom. I also added background music, which starts playing as soon as the player steps out of the house, showing the change from the indoor to the open, natural environment.</p> 
 

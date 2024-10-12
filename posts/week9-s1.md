@@ -31,4 +31,4 @@ allow_math: true
 
 
 
-<p>Plus: There is secret path for an easter egg in my 3D environment. (just want to make it fun and for player to discover!)  :))</p>
+
