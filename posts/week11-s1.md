@@ -6,3 +6,8 @@ disable_html_sanitization: true
 allow_math: true
 ---
 #  2024 Sem2 DMS1: 13:30 - 16:30 class
+
+## Class Task##
+
+![Wireframes](wireframe_google.jpg)
+![Wireframes](google_2.jpg)
