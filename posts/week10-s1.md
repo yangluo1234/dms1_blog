@@ -92,9 +92,6 @@ To enhance the playful theme, I added sound effects that match the visuals, like
 
 3. Assignment 3 - Virtual Environment 
 
-
-Artist Statement for Assignment 3 - Virtual Environment
-
 This virtual environment project explores the transition from isolation to reconnection. Sound plays a key role in creating the atmosphere, with looping news broadcasts indoors symbolising a sense of confinement and isolation. Outdoors, the sound shifts to natural elements, like birds and flowing water, representing a return to the outside world and connection with nature.
 
 The visual design supports this theme of transition. The indoor space feels cold and restricted, with darker colors and limited lighting. In contrast, the outdoor area is bright and open, using warm colors and natural light to create a welcoming feel. This shift in color and lighting highlights the journey from being confined to feeling free.
